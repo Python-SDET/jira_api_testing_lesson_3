@@ -1,4 +1,7 @@
 "# jira_api_testing_lesson_3" 
+
+This is a tutorial repository associated with the following YouTube video: https://www.youtube.com/watch?v=eWR49de-RrA
+
 1) implementation.py  
   a. Added the ability to send jql (JIRA Query Language) queries to implementation.py  
   b. Removed testing code from file  
